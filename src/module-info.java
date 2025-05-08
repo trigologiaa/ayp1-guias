@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module AyP1Eclipse {
-}
